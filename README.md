@@ -16,17 +16,6 @@ The original template is in US Letter size and not A4 size.
 
 Below is a comparison of the two pdfs:
 
-<table>
-    <tr>
-        <th>Original Word Template</th>
-        <th>New Latex Template</th>
-    </tr>
-    <tr>
-        <td>
-             <iframe src="ISB2025_Word_Abstract_Template_A4.pdf" width="45%" height="400px" style="border: none;"></iframe>
-        </td>
-        <td>
-             <iframe src="ISB_Abstract.pdf" width="45%" height="400px" style="border: none;"></iframe>
-        </td>
-    </tr>
-</table>
+| Original Word Template         | New Latex Template                          |
+|---------------|--------------------------------|
+| ![WordTemplate](ISB2025_Word_Abstract_Template_A4.jpg)      | ![LatexTemplate](ISB_Abstract-latex-v1.jpg)   |
