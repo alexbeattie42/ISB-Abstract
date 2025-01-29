@@ -18,4 +18,4 @@ Below is a comparison of the two pdfs:
 
 | Original Word Template         | New Latex Template                          |
 |---------------|--------------------------------|
-| ![WordTemplate](ISB2025_Word_Abstract_Template_A4.jpg)      | ![LatexTemplate](ISB_Abstract-latex-v1.jpg)   |
+| ![WordTemplate](static/ISB2025_Word_Abstract_Template_A4.jpg)      | ![LatexTemplate](static/ISB_Abstract-latex-v1.jpg)   |
